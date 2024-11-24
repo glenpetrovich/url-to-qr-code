@@ -1,0 +1,10 @@
+site_name: URL to QR Code
+site_url: https://glenpetrovich.github.io/url-to-qr-code/
+theme:
+  name: material
+site_author: Glen Petrovich
+copyright: Glen Petrovich, 2024
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
